@@ -54,7 +54,7 @@ p {
   color: rgba(255, 255, 255, 0.7);
 }
 section {
-  padding: 100px 0;
+  padding: 48px 0;
 }
 aside {
   padding: 50px 0;
@@ -486,6 +486,14 @@ body {
 
 .map {
   height: 500px;
+}
+
+.contact_me p {
+  margin-bottom: 5px;
+}
+
+.contact_me .icon {
+  margin-bottom: 10px;
 }
 
 .full-circle {
